@@ -2,7 +2,7 @@
 
 👀 I'm interested in exploring the intersection of technology and creativity, building innovative solutions, and staying updated with the latest developments in the tech world.
 
-🌱 I'm currently learning advanced Python and sharpening my skills in web development to pursue my dream of becoming a software developer and eventually establishing my own business.
+🌱 I'm currently learning about cloud computing and sharpening my skills in web development to pursue my dream of becoming a software developer.
 
 💞️ I'm looking to collaborate on exciting projects that involve coding, design, and creative problem-solving. If you have ideas or opportunities, let's connect and discuss how we can work together.
 
