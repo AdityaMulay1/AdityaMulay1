@@ -1,9 +1,49 @@
-👋 Hi, I'm @AdityaMulay1, a third-year college student at MIT ADT University in Pune, India. I have a passion for coding, art, design, technology, and music.
 
-👀 I'm interested in exploring the intersection of technology and creativity, building innovative solutions, and staying updated with the latest developments in the tech world.
+👋 Hi, I'm Aditya Mulay
+Welcome to my GitHub profile! I'm an innovative software developer with a passion for mental health technologies, AI, IoT, and web development. I love taking on new challenges and building impactful solutions that can make a difference.
 
-🌱 I'm currently honing my skills in advanced Python, database management systems, and learning various other techniques to enhance my programming abilities. I'm also working on several exciting projects, including a mental health chatbot named Aurora that aims to provide support and connect users with therapists, a watch application to measure heart rate and pulse, and an IoT-based environment carbon emission measurement device.
 
-💞️ I'm looking to collaborate on projects that involve coding, design, and creative problem-solving. If you have ideas or opportunities, let's connect and discuss how we can work together.
+🚀 About Me
+🎓 B.Tech in Computer Science at MIT ADT University (Expected 2026)
+💼 Lead Innovator at CRiEYA, developing Aurora, an AI-powered mental health system
+🌐 Web Developer Intern at Prodigy InfoTech
+💡 Always exploring the latest in technology, including AI, machine learning, wearable tech, and NLP
+💬 Languages: Python, Java, JavaScript, HTML, CSS
+🛠️ Technologies & Tools
 
-📫 How to reach me: Feel free to send me a message here on GitHub or connect with me on LinkedIn ([Aditya Mulay](https://www.linkedin.com/in/aditya-mulay-93839025a/)). I'm always open to valuable discussions, ideas, and collaboration. Let's make great things happen!
+
+Category	Tools/Technologies
+Languages	Python, Java, JavaScript, HTML, CSS
+Databases	MySQL
+Web Development	Frontend & Backend, Responsive Design, API Integration
+Technologies	Linux, Shell Scripting, NLP, Wearable Tech, IoT
+Tools	Git, Docker, Figma, Jetpack Compose, Tailwind CSS
+Soft Skills	Problem Solving, Team Leadership, Strategic Planning
+
+
+🏆 Achievements
+🥇 Winner, MIT ADT Ideation Competition (Aurora Project)
+🥇 Winner, MIT ADT School of Engineering Debate Competition
+💰 Secured INR 2 lac for Aurora's mental health tech development
+🌟 Projects
+Aurora – Mental Health Chatbot
+An AI-powered chatbot designed to assist with mental health, featuring:
+
+Mood tracking, journaling, and meditation guides
+Engaged over 5000+ users, improving mental health interactions by 35%
+Air Guardian
+An IoT-based carbon emissions monitoring system:
+
+Provides real-time data on environmental carbon footprints
+Expanded deployment from college campuses to wider communities
+Breathe Easy
+An air pollution monitoring solution using IoT sensors:
+
+Delivered real-time pollution data for 100+ daily users
+📈 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak" /> </p>
+📫 Let's Connect!
+
+LinkedIn: aditya-mulay1
+Email: adityamulay1@gmail.com
+Portfolio: Aurora Project
