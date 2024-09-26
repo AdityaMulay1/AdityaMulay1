@@ -41,7 +41,7 @@ An air pollution monitoring solution using IoT sensors:
 
 Delivered real-time pollution data for 100+ daily users
 📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AdityaMulay1&show_icons=true&theme=radical" alt="Aditya's GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaMulay1&theme=radical" alt="GitHub Streak Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaMulay1&layout=compact&theme=radical" alt="Top Languages" /> </p>
 📫 Let's Connect!
 
 LinkedIn: aditya-mulay1
