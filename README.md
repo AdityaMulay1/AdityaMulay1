@@ -16,8 +16,8 @@ Category	Tools/Technologies
 Languages	Python, Java, JavaScript, HTML, CSS
 Databases	MySQL
 Web Development	Frontend & Backend, Responsive Design, API Integration
-Technologies	Linux, Shell Scripting, NLP, Wearable Tech, IoT
-Tools	Git, Docker, Figma, Jetpack Compose, Tailwind CSS
+Technologies	Linux, Shell Scripting, NLP, Wearable Tech, IoTs
+Tools	Git, Docker (followed tutorials), Figma, Tailwind CSS (learning)
 Soft Skills	Problem Solving, Team Leadership, Strategic Planning
 
 
@@ -30,7 +30,8 @@ Aurora – Mental Health Chatbot
 An AI-powered chatbot designed to assist with mental health, featuring:
 
 Mood tracking, journaling, and meditation guides
-Engaged over 5000+ users, improving mental health interactions by 35%
+
+
 Air Guardian
 An IoT-based carbon emissions monitoring system:
 
